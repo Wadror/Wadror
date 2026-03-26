@@ -5,9 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning and leveling up in **[insert tech here, e.g., Dart & Flutter]**
-- 🤝 I’m looking for help with / looking to collaborate on **[finish your thought here instead of "в"]**
-- 💬 Ask me about **[e.g., UI/UX, Linux, or anything tech-related]**
+- 🌱 I’m currently learning and leveling up in **Dart & Flutter]**
+- 💬 Ask me about **UI/UX, Linux, or anything tech-related**
 - ⚡ Fun fact: I love writing clean code and setting up the perfect dev environment.
 
 <br/>
